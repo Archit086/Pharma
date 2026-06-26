@@ -14,8 +14,23 @@ Pharmaceutical Sales Analysis: Transforming wholesale-retail sales data into act
 
 ---
 
+## 📊 Dashboards Overview
+
+### 1. Executive Summary Dashboard
+Offers a high-level overview of overall sales metrics, sales trends by year and month, geographical distributions, and sales breakdowns by product class and sub-channel.
+
+![Executive Summary](images/Screenshot%202026-06-26%20221033.png)
+
+### 2. Distributor & Customer Analysis Dashboard
+Provides in-depth insights into distributor sales, top customers, channels, and sub-channel performances.
+
+![Distributor & Customer Analysis](images/Screenshot%202026-06-26%20221131.png)
+
+---
+
 ## 📂 Repository Structure
 
 - `pharma-data.csv`: The sourced sales dataset.
 - `data-exploration.ipynb`: Jupyter notebook containing initial data exploration and profiling.
 - `pharma-analysis.pbix`: Power BI workbook containing the data model and dashboard designs.
+- `images/`: Contains screenshots of the Power BI dashboards.
